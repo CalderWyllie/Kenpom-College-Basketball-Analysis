@@ -17,11 +17,6 @@ Split win–loss records into separate numeric columns.
 Converted all efficiency and tempo metrics to numeric dtype.
 
 Calculated Win Percentage for every team.
-(Shown in your DataFrame preview on page 4 of the PDF: Duke, Houston, Florida, etc. 
-
-kenpom_analysis
-
-)
 
 2. Conference Tempo Analysis
 
