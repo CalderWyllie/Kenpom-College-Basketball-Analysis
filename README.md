@@ -4,7 +4,6 @@ This project analyzes NCAA Division I men's basketball team performance using ef
 The goal was to explore what drives team success, compare offensive/defensive profiles, evaluate conference tempo styles, and build a data-driven Underrated Index to identify teams that performed better than their win–loss record suggests.
 
 Note: Due to licensing restrictions, the KenPom dataset is not included.
-To run the project, provide your own KenpomRatings.csv file.
 
 📂 Project Overview
 1. Data Cleaning & Preparation
@@ -124,15 +123,3 @@ DRtg
 
 Top teams include:
 Arizona, Illinois, Kansas, Ohio State, etc. (page 7).
-
-🧠 What I Learned
-
-How tempo, schedule strength, and efficiency metrics interact to shape team profiles.
-
-How to engineer new basketball performance metrics (e.g., Underrated Index).
-
-How to use z-scores and scaling to build robust ranking models.
-
-How to apply real analytics workflows: cleaning, visualizing, modeling, and interpreting results.
-
-How to work responsibly with proprietary sports data.
